@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73672765651",
+    "project_id": "ecommarce-69e55",
+    "storage_bucket": "ecommarce-69e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73672765651:android:ad4b03a01e9a631ec52426",
+        "android_client_info": {
+          "package_name": "com.hazmhammad.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73672765651-ub452qg7ep3ikjlvjaq40n39q3pl6svj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0f50p4cBcb96Q4qTxj4U6bXkEQgYTAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73672765651-ub452qg7ep3ikjlvjaq40n39q3pl6svj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
